@@ -1,6 +1,6 @@
-this project use html,css,js,php,mysql ;
+this project use html,css,js,php(xampp),mysql ;
 no framework ;
-MVC 
+MVC ;
 
 ![Ảnh chụp màn hình 2025-02-03 132800](https://github.com/user-attachments/assets/049717b1-e013-4b1c-8b97-fc59f61bab07)
 ![Ảnh chụp màn hình 2025-02-03 132841](https://github.com/user-attachments/assets/dfd74dae-f497-423b-9d8c-8c493db3b785)
